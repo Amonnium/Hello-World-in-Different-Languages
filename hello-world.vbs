@@ -1,4 +1,5 @@
-' Pop-up message
+' Pop-up message: 
 MsgBox "Hello, World!"
-' Windows Script Host or CMD
+
+' Windows Script Host or CMD: 
 WScript.Echo "Hello, World!"
